@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "Poppins", sans-serif;
+    
+}
+.container{
+    padding: 50px;
+}
+.section-one{
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+.section-one__con{
+    background-color:orangered;
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: inline-block;
+    margin-top: 10px;
+   
+}
+.section-one__name{
+    font-size: 60px;
+}
+.section-one__role{
+    font-size: 40px;
+    margin-top: 10px;
+}
+.section-two,.section-three,.section-four,.section-five{
+    margin-top: 20px;
+}
+.section-two__desc,.section-three__list,.section-four__items,.section-five__media{
+    margin-top: 10px;
+}
+.section-five{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.section-five__media a{
+    color: skyblue;
+    text-decoration: none;
+}
+.section-three__list,.section-four__items{
+    list-style: none;
+}
+.section-three,.section-four{
+    background-color: #6462FD;
+    padding: 20px;
+    display: inline-block;
+    height: 150px;
+    border-radius: 10px;
+    vertical-align: top;
+}
+.section-four{
+    background-color: #F7A03D;
+    padding: 20px;
+    display: inline-block;
+    height: 150px;
+    border-radius: 10px;
+    vertical-align: top;
+}
+.black-one{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    
+}
+.black-one__but{
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: inline-block;
+    margin-top: 20px;
+}
+.black-one__name{
+    font-size: 60px;
+}
+.black-one__desc{
+    font-size: 40px;
+    margin-top: 10px;
+}
+.black-three{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.black-two,.black-three{
+    margin-top: 20px;
+}
+.black-three a{
+    color: skyblue;
+    text-decoration: none;
+}
+.black-two__in,.black-two__text,.black-two__submit{
+    margin-top: 10px;
+}
+.black-two__in{
+    padding: 10px;
+    border: none;
+    border-bottom: solid black 1px;
+}
+.black-two__text{
+    padding: 10px;
+    border: none;
+    border: solid black 1px;
+}
+.black-two__submit{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: orangered;
+    color: black;
+    border: none;
+
+}
